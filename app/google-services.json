@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "92299847709",
+    "firebase_url": "https://guguchatty-default-rtdb.firebaseio.com",
+    "project_id": "guguchatty",
+    "storage_bucket": "guguchatty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92299847709:android:9f9134cedf09571cf7bef4",
+        "android_client_info": {
+          "package_name": "com.example.guguchatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZFIPD5HJi30P52RDQ_sT_qc-GAmWxeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
