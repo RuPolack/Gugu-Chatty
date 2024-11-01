@@ -21,7 +21,7 @@ class Launcer : AppCompatActivity() {
         val button1: Button = findViewById(R.id.button)
         button1.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
-            startActivity(intent)
+            startActivity(intent) // переход в 1 чат
 
         }
 
@@ -29,14 +29,14 @@ class Launcer : AppCompatActivity() {
         val button2: Button = findViewById(R.id.button4)
         button2.setOnClickListener {
             val intent = Intent(this, MainActivity2::class.java)
-            startActivity(intent)
+            startActivity(intent) // переход в 2 чат
 
         }
 
         val button3: Button = findViewById(R.id.button5)
         button3.setOnClickListener {
             val intent = Intent(this, MainActivity3::class.java)
-            startActivity(intent)
+            startActivity(intent) // переход в 3 чат
 
         }
 
